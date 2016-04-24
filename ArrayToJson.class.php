@@ -6,7 +6,8 @@ class ArrayToJson{
      * @param   string  $message 提示信息　用于js的显示
      * @param   array   $data   传给浏览器的数据
      * return   string
-     * author   tinytoobad
+     * author   singwa
+     * Modifier	tinytoobad
      * 20160424
      * */
     public static function array2Json($status=400, $message = 'fail', $data = array()) {
